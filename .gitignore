@@ -1,0 +1,12 @@
+# Ignore all DLL files
+*.dll
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore environment files
+.env
+
+# Ignore database backups
+*.db
